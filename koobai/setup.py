@@ -51,9 +51,9 @@ setup(
     },
     package_data={
         "": [
-            os.path.join("koobai","version"),
-            os.path.join("koobai", "templates", "modelfile.txt"),
-            os.path.join("koobai", "templates", "system_instr.txt"),
+            os.path.join("version"),
+            os.path.join( "templates", "modelfile.txt"),
+            os.path.join( "templates", "system_instr.txt"),
         ],
     },
     packages=[
