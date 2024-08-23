@@ -1,0 +1,5 @@
+height: {{cookiecutter.character_appearance_height}}
+build: {{cookiecutter.character_appearance_build}}
+hair: {{cookiecutter.character_appearance_hair}}
+eyes: {{cookiecutter.character_appearance_eyes}}
+clothing_style: {{cookiecutter.character_appearance_clothing_style}}

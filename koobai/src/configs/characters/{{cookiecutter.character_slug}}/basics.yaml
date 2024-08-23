@@ -1,0 +1,4 @@
+name: {{cookiecutter.character_name}}
+age: {{cookiecutter.character_basics_age}}
+occupation_headline: {{cookiecutter.character_basics_occupation_headline}}
+education_headline: {{cookiecutter.character_basics_education_headline}}

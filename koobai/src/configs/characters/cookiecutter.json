@@ -1,0 +1,18 @@
+{
+    "character_name": "Undefined",
+    "character_slug": "{{cookiecutter.character_name.lower().replace(' ', '_').replace('-', '_')}}",
+    "character_basics_age": "Unknown",
+    "character_basics_occupation_headline": "Unknown",
+    "character_basics_education_headline": "Unknown",
+    "character_appearance_height": "Unknown",
+    "character_appearance_build": "Unknown",
+    "character_appearance_hair": "Unknown",
+    "character_appearance_eyes": "Unknown",
+    "character_appearance_clothing_style": "Unknown",
+    "character_background": "To be defined",
+    "character_backstory": "To be defined",
+    "character_motivations": "To be defined",
+    "character_personality_traits": "To be defined",
+    "character_skills": "To be defined",
+    "character_weaknesses": "To be defined"
+}

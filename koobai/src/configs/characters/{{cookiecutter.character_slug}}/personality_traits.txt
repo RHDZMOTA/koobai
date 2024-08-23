@@ -1,0 +1,1 @@
+{{cookiecutter.character_personality_traits}}

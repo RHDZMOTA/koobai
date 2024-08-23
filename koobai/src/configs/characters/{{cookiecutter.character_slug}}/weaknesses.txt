@@ -1,0 +1,1 @@
+{{cookiecutter.character_weaknesses}}
