@@ -1,0 +1,7 @@
+FROM {basemodel}
+PARAMETER temperature {temperature}
+PARAMETER top_k {top_k}
+PARAMETER top_p {top_p}
+SYSTEM """
+{system_instr}
+"""
